@@ -1,0 +1,7 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+D3F1D3C05F5493F9,classic_bike,2024-01-28 14:59:46,2024-01-28 15:00:46,Brannan St at 7th St,SF-K27-2,8th St at Brannan St,SF-K26,37.7724385,-122.4039235,37.771431362921085,-122.40578681230544,member
+0DD9F3B6C6DFFCB4,electric_bike,2024-01-27 13:48:36,2024-01-27 13:49:36,McAllister St at Arguello Blvd,SF-J13,McAllister St at Arguello Blvd,SF-J13,37.77532683333333,-122.45808766666669,37.775328,-122.458104,member
+0A6359E3F5744F64,electric_bike,2024-01-14 12:49:08,2024-01-14 12:50:08,*Howard St at Grace St,SF-K24-3,11th St at Natoma St,SF-K24,37.774513006,-122.41387713,37.7735069,-122.4160402,member
+DD570B85E4EDDDC4,classic_bike,2024-01-27 15:29:11,2024-01-27 15:30:11,36th Ave at Spreckels Lake Dr,SF-GGP-04,36th Ave at Spreckels Lake Dr,SF-GGP-04,37.771589,-122.495772,37.771589,-122.495772,casual
+3F63E41ECD4F5655,classic_bike,2024-01-14 15:34:18,2024-01-14 15:35:19,Berry St at King St,SF-L28,Berry St at King St,SF-L28,37.771762110313176,-122.39843755960464,37.771762110313176,-122.39843755960464,member
+5C9F2164B7F8CB85,electric_bike,2024-01-21 12:43:24,2024-01-21 12:44:26,16th St at Prosper St,SF-N20-1,16th St at Prosper St,SF-N20-1,37.764279723,-122.431864977,37.764285,-122.4318042,casual
